@@ -1,0 +1,1 @@
+This is not my first project but I'm a bit rusty on the basics
